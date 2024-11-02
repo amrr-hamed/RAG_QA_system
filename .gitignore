@@ -1,0 +1,34 @@
+# Python environment
+venv/
+.env
+
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Log files
+*.log
+
+# Temporary files
+*.tmp
+temp/
+
+# Build artifacts
+build/
+dist/
+*.egg-info/
+
+# IDE settings
+.vscode/
+.idea/
+
+# Streamlit files (if you generate any)
+.streamlit/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
