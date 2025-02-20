@@ -34,6 +34,3 @@ streamlit run main.py
  
 Fork the repo and submit a pull request. 
  
-## License 
- 
-MIT License. 
